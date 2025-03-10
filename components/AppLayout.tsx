@@ -80,7 +80,7 @@ export default function AppLayout({ children }: AppLayoutProps) {
           <div className="pt-4 mt-4 border-t border-yellow-500/20">
             <div className="px-4 text-xs font-medium bg-gradient-to-r from-yellow-400/90 to-orange-400/90 text-transparent bg-clip-text uppercase tracking-wider mb-2">Resources</div>
             
-            <a href="https://github.com/jpregidasda/BANANA-AI" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/BananaAITech/BananaAI" target="_blank" rel="noopener noreferrer"
               className="flex items-center p-3 rounded-xl text-gray-300 hover:text-white hover:bg-gradient-to-r hover:from-yellow-500/20 hover:to-orange-500/10 transition-all group">
               <div className="w-10 h-10 flex items-center justify-center relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-yellow-500/20 to-orange-500/20 rounded-lg opacity-0 group-hover:opacity-100 transition-all duration-300 group-hover:scale-110" />
@@ -108,7 +108,7 @@ export default function AppLayout({ children }: AppLayoutProps) {
               </div>
             </a>
 
-            <a href="https://github.com/jpregidasda/BANANA-AI/blob/main/README.md" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/BananaAITech/BananaAI/blob/main/README.md" target="_blank" rel="noopener noreferrer"
               className="flex items-center p-3 rounded-xl text-gray-300 hover:text-white hover:bg-gradient-to-r hover:from-yellow-500/20 hover:to-orange-500/10 transition-all group">
               <div className="w-10 h-10 flex items-center justify-center relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-yellow-500/20 to-orange-500/20 rounded-lg opacity-0 group-hover:opacity-100 transition-all duration-300 group-hover:scale-110" />
