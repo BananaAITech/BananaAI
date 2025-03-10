@@ -94,7 +94,7 @@ export default function AppLayout({ children }: AppLayoutProps) {
               </div>
             </a>
 
-            <a href="https://x.com/aibaibnb" target="_blank" rel="noopener noreferrer"
+            <a href="https://x.com/bananaai_tech" target="_blank" rel="noopener noreferrer"
               className="flex items-center p-3 rounded-xl text-gray-300 hover:text-white hover:bg-gradient-to-r hover:from-yellow-500/20 hover:to-orange-500/10 transition-all group">
               <div className="w-10 h-10 flex items-center justify-center relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-yellow-500/20 to-orange-500/20 rounded-lg opacity-0 group-hover:opacity-100 transition-all duration-300 group-hover:scale-110" />
